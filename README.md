@@ -1,27 +1,14 @@
 ### Hi there 👋 I am Shubham Jaiswal..
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
+<div>
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Put Here Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
+<img src="developer.webp" align="right" width="350">
 </a>
 </picture>
+</div>
 
 
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="horizontal-divider-gradient.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -37,7 +24,7 @@
 </p>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="horizontal-divider-gradient.gif">
 
 <h3 align="center">🔥Streak Stats🔥</h3>
 
@@ -45,7 +32,7 @@
 <p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Shubham-Jaiswal" /></p>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="horizontal-divider-gradient.gif">
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
@@ -58,11 +45,11 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-username)
 </div>
 
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="horizontal-divider-gradient.gif">
 
 <div align="center">
     Made with ❤️ by <a href="https://github.com/Iamshubham2022" target="_blank">Shubham Jaiswal</a>
 </div>
 
 <!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
+<img src="horizontal-divider-gradient.gif">
