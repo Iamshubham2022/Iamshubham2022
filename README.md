@@ -1,4 +1,4 @@
-## Hi there 👋 I am shubham jaiswal..
+### Hi there 👋 I am Shubham Jaiswal..
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,6 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
@@ -17,10 +20,6 @@
 </a>
 </picture>
 
-
-```cmd
-Hi, my name is Shubham Jaiswal, I'm a Frontend Developer from India.
-```
 
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
