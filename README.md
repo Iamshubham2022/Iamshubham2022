@@ -1,17 +1,6 @@
 ### Hi there 👋 I am Shubham Jaiswal..
 <div>
-<picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Put Here Developer">
-<img src="developer.webp" align="right" width="350">
-</a>
-</picture>
-</div>
-
-
-<img src="horizontal-divider-gradient.gif">
- # About me
- 
-<p>
+ <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
@@ -20,6 +9,18 @@
  💬 &emsp; Ask me about anything [here](https://github.com/Iamshubham2022)
 
 </p>
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Put Here Developer">
+<img src="programmer.gif" align="right" width="350">
+</a>
+</picture>
+</div>
+
+
+
+
+ 
+
 
 <img src="horizontal-divider-gradient.gif">
 
@@ -42,7 +43,7 @@
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Shubham-Jaiswal" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=Iamshubham2022&hide_border=true&type=png" alt="Shubham-Jaiswal" /></p>
 
 <!--x axis divider-->
 <img src="horizontal-divider-gradient.gif">
