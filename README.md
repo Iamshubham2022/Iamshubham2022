@@ -37,13 +37,7 @@
 </a>
 </p>
 
-<!--x axis divider-->
-<img src="horizontal-divider-gradient.gif">
 
-<h3 align="center">🔥Streak Stats🔥</h3>
-
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Iamshubham2022&hide_border=true&type=png" alt="Shubham-Jaiswal" /></p>
 
 <!--x axis divider-->
 <img src="horizontal-divider-gradient.gif">
